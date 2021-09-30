@@ -1,0 +1,3 @@
+This is the first statement of the notepad
+125 This is seocnd lineThis is the first statement of the notepad
+125 This is seocnd line
